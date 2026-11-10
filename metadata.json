@@ -1,0 +1,6 @@
+{
+  "name": "WebQuest Antihipertensivos: ¿Aura farmacológica o estás cocinado?",
+  "description": "WebQuest interactiva de farmacología médica para 8 equipos sobre antihipertensivos, casos clínicos reales, calculadora de aura y modo docente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
